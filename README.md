@@ -24,7 +24,7 @@ Current Project Improvement Checklist:
 [ ] Detail code with Docstrings and Comments for easy reading   
 [ ] Demonstration of game working within GitHub repository  
 
-## My Languages/Tools
+## 🛠️ My Languages/Tools
 
 ## GitHub Stats
 
