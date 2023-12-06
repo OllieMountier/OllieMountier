@@ -18,11 +18,11 @@ I am currently searching for a junior role, eager to continue growing my skills 
 -Revising and improving all aspects of my previous projects, starting with my first project- my Hangman game. 
 
 Current Project Improvement Checklist:  
-[https://progress-bar.dev/10 ] Complete revamp of ReadME file  
-[https://progress-bar.dev/0] Flow chart of game processes for visual representation of code  
-[https://progress-bar.dev/25] Improve efficiency of code, adding in more "professional" techniques to better game experience  
-[https://progress-bar.dev/90] Detail code with Docstrings and Comments for easy reading   
-[https://progress-bar.dev/50] Demonstration of game working within GitHub repository  
+[![50%](https://progress-bar.dev/10)] Complete revamp of ReadME file  
+[![50%](https://progress-bar.dev/0)] Flow chart of game processes for visual representation of code  
+[![50%](https://progress-bar.dev/25)] Improve efficiency of code, adding in more "professional" techniques to better game experience  
+[![50%](https://progress-bar.dev/90)] Detail code with Docstrings and Comments for easy reading   
+[![50%]https://progress-bar.dev/50)] Demonstration of game working within GitHub repository  
 
 ## 🛠️ My Languages/Tools
 
