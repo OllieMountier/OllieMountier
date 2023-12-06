@@ -42,14 +42,11 @@ Current Project Improvement Checklist:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
-
-
-
 </div>
 
 
-## GitHub Stats
+## 🔍 GitHub Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OllieMountier&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Contact Me
 
