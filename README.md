@@ -46,7 +46,7 @@ Current Project Improvement Checklist:
 
 
 ## 🔍 GitHub Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OllieMountier&theme=highcontrast&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OllieMountier&theme=highcontrast&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=000000&excludeDaysLabel=000000&border=000000)](https://git.io/streak-stats)
 ## Contact Me
 
 </details>
