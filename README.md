@@ -7,7 +7,7 @@
 
 My name is Ollie Mountier, I am a 20 year old graduate Data Scientist from Essex, England looking to start my career and continue excelling in the field! I have detailed experience in Machine Learning, Deep Learning, Analysis techniques and much, much more...
 
-I am currently searching for a junior role, eager to continue growing my skills and providing my expertise. If my skills and profile have impressed you, please do not hesitate to contact me through the details provided at the bottom of the page.
+I am currently searching for a junior role, eager to continue growing my skills and providing my expertise. If my skills and profile have impressed you, please do not hesitate to contact me by email [here](mailto:olliemountier@btinternet.com) or through the details provided at the bottom of the page.
 
 ## Currently Working On
 
@@ -55,8 +55,7 @@ I am currently searching for a junior role, eager to continue growing my skills 
 ## Contact Me
 
 <p><a href="https://github.com/OllieMountier" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ollie-mountier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.discordapp.com/users/715316444237266974" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-[Email](mailto:olliemountier@btinternet.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                           
 
 
