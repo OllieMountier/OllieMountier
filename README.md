@@ -20,10 +20,10 @@ I am currently searching for a junior role, eager to continue growing my skills 
 Current Project Improvement Checklist:  
 Complete revamp of ReadME file  
 - [ ] Flow chart of game processes for visual representation of code  
-- [] Improve efficiency of code, adding in more "professional" techniques to better game experience      
+- [ ] Improve efficiency of code, adding in more "professional" techniques to better game experience      
 - [ ] Detail code with Docstrings and Comments for easy reading   
-- [] Demonstration of game working within GitHub repository  
-![0%](https://progress-bar.dev/0)
+- [ ] Demonstration of game working within GitHub repository  
+
 ## 🛠️ My Languages/Tools
 
 <div>
