@@ -55,7 +55,7 @@ I am currently searching for a junior role, eager to continue growing my skills 
 ## Contact Me
 
 <p><a href="https://github.com/OllieMountier" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ollie-mountier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.discordapp.com/users/715316444237266974" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
-[email](mailto:olliemountier@btinternet.com)
+[Email](mailto:olliemountier@btinternet.com)
 
 
 </details>
