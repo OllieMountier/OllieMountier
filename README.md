@@ -18,7 +18,7 @@ I am currently searching for a junior role, eager to continue growing my skills 
 -Revising and improving all aspects of my previous projects, starting with my first project- my Hangman game. 
 
 Current Project Improvement Checklist:  
-Complete revamp of ReadME file  
+- [ ] Complete revamp of ReadME file  
 - [ ] Flow chart of game processes for visual representation of code  
 - [ ] Improve efficiency of code, adding in more "professional" techniques to better game experience      
 - [ ] Detail code with Docstrings and Comments for easy reading   
