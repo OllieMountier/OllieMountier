@@ -1,4 +1,5 @@
 ![Header](./github-header-image5.png)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <details>
 <summary> Everything you need to know about me...</summary>
