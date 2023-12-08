@@ -1,6 +1,6 @@
 ![Header](./github-header-image5.png)
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=400 height=100/>
 </p>
 
 <details>
