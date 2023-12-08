@@ -1,4 +1,6 @@
-# Hi There, I'm Ollie 👋
+<p align="center">
+  # Hi There, I'm Ollie 👋
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=550 height=300/>
